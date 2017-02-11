@@ -1,0 +1,9 @@
+id=dap
+name=Dolby Atmos
+version=r6.5-a
+versionCode=650
+author=Yash98
+description=Dolby Atmos r6.5 by worstenbrood
+support=https://forum.xda-developers.com/android/apps-games/mod-dolby-atmos-t3109446
+donate=https://paypal.me/yashrastogi
+cacheModule=false
